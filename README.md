@@ -20,7 +20,8 @@
 | 讲次 | 主题 | 状态 |
 |------|------|------|
 | [Lecture 01](notes/lecture-01-knn-linear-classifier.md) | 图像分类：从 kNN 到线性分类器 | ✅ 已完成 |
-| Lecture 02 | （待更新） | ⏳ |
+| [Lecture 02](notes/lecture-02-regularization-optimization.md) | 正则化与优化：SGD / Momentum / RMSProp / Adam / AdamW | ✅ 已完成 |
+| Lecture 03 | （待更新） | ⏳ |
 
 ---
 
@@ -28,10 +29,13 @@
 
 ```
 notes/        每讲一份笔记
+ppt/          课程原始 PPT / 课件（本地留存，不建议提交到公开仓库，见下方说明）
 assets/       图片、手绘、截图
 exercises/    自测题与解答
 resources.md  课程链接与参考资料
 ```
+
+> ⚠️ **关于 `ppt/` 文件夹**：斯坦福 CS231n 的课件本身属于课程版权内容，个人学习笔记（notes/ 下的 md 文件）可以公开分享，但建议不要把原始 PPT/课件文件提交到公开仓库。可以在项目根目录加一行 `ppt/` 到 `.gitignore`，只在本地保留用于个人复习。
 
 ---
 
