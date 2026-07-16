@@ -12,7 +12,7 @@
 - **重串联**：不只罗列知识点，而是用一条逻辑链把它们前因后果串起来。
 - **可自测**：每讲附自测题与解答，学完即可检验。
 - **持续更新**：按我自己的节奏，学一讲、整理一讲。
-- **双层笔记**：`notes/` 保存我二次消化后的正式学习笔记；`Detailed notes/` 保存 GPT 生成的结构化详稿，便于回查完整解释。
+- **双层笔记**：`notes/` 保存我二次消化后的正式 Markdown 学习笔记；`Detailed notes/` 保存 GPT 生成的 PDF 结构化详稿，便于回查完整解释。
 
 ---
 
@@ -23,8 +23,14 @@
 | [Lecture 01](notes/lecture-01-knn-linear-classifier.md) | 图像分类：从 kNN 到线性分类器 | ✅ 已完成 |
 | [Lecture 02](notes/lecture-02-regularization-optimization.md) | 正则化与优化：SGD / Momentum / RMSProp / Adam / AdamW | ✅ 已完成 |
 | [Lecture 03](notes/lecture-03-neural-networks-backpropagation.md) | 神经网络与反向传播：MLP / 激活函数 / 计算图 / Backpropagation | ✅ 已完成 |
+| [Lecture 04](notes/lecture-04-convolutional-neural-networks.md) | 卷积神经网络基础：卷积 / 参数共享 / 池化 / 完整训练闭环 | ✅ 已完成 |
+| [Lecture 05](notes/lecture-05-cnn-architectures-training.md) | CNN 架构与训练：归一化 / Dropout / VGG / ResNet / 权重衰减 | ✅ 已完成 |
 
 > Lecture 03 的完整结构化详稿见：[`Detailed notes/lecture-03-neural-networks-backpropagation.md`](Detailed%20notes/lecture-03-neural-networks-backpropagation.md)
+>
+> Lecture 04 的完整结构化详稿见：[`Detailed notes/lecture-04-convolutional-neural-networks.md`](Detailed%20notes/lecture-04-convolutional-neural-networks.md)
+>
+> Lecture 05 的完整结构化详稿见：[`Detailed notes/lecture-05-cnn-architectures-training-detailed.pdf`](Detailed%20notes/lecture-05-cnn-architectures-training-detailed.pdf)
 
 ---
 
@@ -32,7 +38,7 @@
 
 ```
 notes/            每讲一份正式学习笔记，强调“我如何理解”
-Detailed notes/   GPT 生成的结构化详稿，保留完整解释、类比、公式和自测
+Detailed notes/   GPT 生成的 PDF 结构化详稿，保留完整解释、类比、公式和自测
 ppt/              课程原始 PPT / 课件（本地留存，不建议提交到公开仓库，见下方说明）
 assets/           图片、手绘、截图
 exercises/        自测题与解答
