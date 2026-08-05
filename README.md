@@ -28,7 +28,7 @@
 
 > Lecture 03 的完整结构化详稿见：[`Detailed notes/lecture-03-neural-networks-backpropagation.md`](Detailed%20notes/lecture-03-neural-networks-backpropagation.md)
 >
-> Lecture 04 的完整结构化详稿见：[`Detailed notes/lecture-04-convolutional-neural-networks.md`](Detailed%20notes/lecture-04-convolutional-neural-networks.md)
+> Lecture 04 的完整结构化详稿见：[`Detailed notes/lecture-04-convolutional-neural-networks-detailed.md`](Detailed%20notes/lecture-04-convolutional-neural-networks-detailed.md)
 >
 > Lecture 05 的完整结构化详稿见：[`Detailed notes/lecture-05-cnn-architectures-training-detailed.pdf`](Detailed%20notes/lecture-05-cnn-architectures-training-detailed.pdf)
 
